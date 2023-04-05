@@ -1,10 +1,9 @@
 Charly PECQUEUX--GUÉZÉNEC 
 @charlypg
 
-Student at ENS Paris-Saclay in electrical engineering and control.
-Currently pursuing the ATSI master at Université Paris-Saclay
+PhD student at ISIR in Paris. 
 
-I’m interested in robotics, and especially on *machine learning* applications to robotics, more specifically reinforcement learning
+Mainly interested in reinforcement learning and control for robotics.
 <!--- - 📫  --->
 
 <!---
