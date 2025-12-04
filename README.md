@@ -1,7 +1,7 @@
 Charly PECQUEUX--GUÉZÉNEC 
 @charlypg
 
-PhD student at ISIR in Paris. 
+PhD student and ATER at ISIR in Paris. 
 
 Mainly interested in reinforcement learning and control for robotics.
 <!--- - 📫  --->
