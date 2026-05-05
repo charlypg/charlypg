@@ -14,6 +14,9 @@ Mainly interested in reinforcement learning and control for robotics.
 - [2IN013 Python project](https://github.com/charlypg/2IN013robot2025)
 - [Cimple Networks](https://github.com/charlypg/Cimple-Networks)
 
+## 🤖 Robotics
+- [Python RWS Client](https://github.com/charlypg/RobotWebServices-Python-Interface)
+
 <!--- - 📫  --->
 
 <!---
