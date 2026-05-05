@@ -11,7 +11,7 @@ Mainly interested in reinforcement learning and control for robotics.
 
 ## 🎓 Teaching
 - [Deep reinforcement learning for beginners](https://github.com/charlypg/DQN-practical)
-- [2IN013 Python project](https://github.com/charlypg/2IN013robot2025)
+- [2IN013 Python project](https://github.com/charlypg/2IN013robot2025) (fork)
 - [Cimple Networks](https://github.com/charlypg/Cimple-Networks)
 
 ## 🤖 Robotics
