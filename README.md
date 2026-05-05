@@ -5,6 +5,10 @@ PhD student and ATER at ISIR in Paris.
 
 Mainly interested in reinforcement learning and control for robotics.
 
+## 🧠🔁 Reinforcement Learning
+- [Balzax](https://github.com/charlypg/Balzax)
+- [RL-Atelier](https://github.com/charlypg/RL-Atelier)
+
 ## 🎓 Teaching
 - [Deep reinforcement learning for beginners](https://github.com/charlypg/DQN-practical)
 - [2IN013 Python project](https://github.com/charlypg/2IN013robot2025)
